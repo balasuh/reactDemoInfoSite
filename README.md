@@ -4,7 +4,7 @@ This is a simple static infowebsite that's powered by react js. I am building th
 
 Speaking of CRA, below, you can find the generic servicing documentation for this application.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
