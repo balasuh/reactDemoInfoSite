@@ -1,3 +1,5 @@
+# React Demo - InfoSite 
+
 This is a simple static infowebsite that's powered by react js. I am building this as a learning experience in my web development journey. My aim here was to gain exposure to react CRA, components and JSX.
 
 Speaking of CRA, below, you can find the generic servicing documentation for this application.
